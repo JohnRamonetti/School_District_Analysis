@@ -2,7 +2,7 @@
 
 ## Overview
 
-### The objective of the current analysis was to review and assess the total standardized test data for the 15 schools comprising a city school district.  Test scores (math and reading) were received for all students in the district and organized by school.  The data was reviewed, cleaned, and organized in a logical format.  Summaries were prepared for for the district and each school, then the data was manipulated to see patterns that may relate to student success in taking the standardized tests.
+### The objective of the current analysis was to review and assess the total standardized test data for the 15 schools comprising a city school district.  Test scores (math and reading) were received for all students in the district and organized by school.  The data was reviewed, cleaned, and organized in a logical format.  Summaries were prepared for the district and each school, then the data was manipulated to see patterns that may relate to student success in taking the standardized tests.
 
 ### Additionally, there was an issue exposed regarding potentially compromised test scores, specifically involving the 9th grade at Thomas High School (THS).  This data had to be considered and dealt with appropriately.  The data was removed from the dataset and the district-wide analysis was repeated without the scores in question.  In other words, the entire set of scores for 9th graders at Thomas High School was not considered.
 
