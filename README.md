@@ -11,10 +11,10 @@
 - The next tabulation is the (School Summary)[]. This table shows the diversity of average scores and passing rates in the district.  The compromised scores affected only Thomas High School, where the 9th grade "questionable" averages were similar to the 10th, 11th, and 12th grade averages, so again the impact of dropping the questioned scores was not very significant.
 - Across the district, the (highest and lowest performing schools)[] are evident.  Despite the compromised test scores at THS, Thomas HS appears in the number 2 spot for top-performing schools, with an overall passing rate of almost 91%.
 - Additionally:
--   - (Average Math and reading)[] scores are shown in the attached DataFrames.  Again, since the 9th grade average scores, based on questionable score data, for (math)[] and (reading)[] were very similar to the respective THS school averages, the overall impact on Thomas High School average scores was not significant.
--   - Schools were grouped by the average spending per student to see if there was any correlation between spending and student success.  In fact, there was a very strong negative correlation, clearly showing a relationship between higher per student spending and lowere passing rates!
--   (School size)[] also showed a strong correlation with student success.  The largest schools (2000 to 5000 student population), on average, had much lower overall passing rates on standardized exams (average 58%) versus small (average 91%) or medium (average 90%) schools.
--   (Type of school)[] (district vs. charter) was also examined. Charter schools averaged overall passing rates of 90%, while district schools averaged only 54% overall passing on standardized tests.
+   - (Average Math and reading)[] scores are shown in the attached DataFrames.  Again, since the 9th grade average scores, based on questionable score data, for (math)[] and (reading)[] were very similar to the respective THS school averages, the overall impact on Thomas High School average scores was not significant.
+   - Schools were grouped by the average spending per student to see if there was any correlation between spending and student success.  In fact, there was a very strong negative correlation, clearly showing a relationship between higher per student spending and lowere passing rates!
+   - (School size)[] also showed a strong correlation with student success.  The largest schools (2000 to 5000 student population), on average, had much lower overall passing rates on standardized exams (average 58%) versus small (average 91%) or medium (average 90%) schools.
+   - (Type of school)[] (district vs. charter) was also examined. Charter schools averaged overall passing rates of 90%, while district schools averaged only 54% overall passing on standardized tests.
         
 ## Summary
 
