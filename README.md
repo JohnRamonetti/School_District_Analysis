@@ -7,8 +7,8 @@
 ### Additionally, there was an issue exposed regarding potentially compromised test scores, specifically involving the 9th grade at Thomas High School (THS).  This data had to be considered and dealt with appropriately.  The data was removed from the dataset and the district-wide analysis was repeated without the scores in question.  In other words, the entire set of scores for 9th graders at Thomas High School was not considered.
 
 ## Resources
-- Sourcefiles:
-- Software:
+- Data Source: [schools_complete.csv](resources\schools_complete.csv), [students_complete.csv](Resources/students_complete.csv)
+- Software: Python 3.7.7, Anaconda, Jupyter Notebook 6.1.4
 
 ## Results
 - The (district summary)[] shows that the district comprises 15 schools with a Total Budget of almost $25M.  There were 39,170 students receiving scores for the standardized math and reading exams. Passing percentages were 75% and 86% for math and reading respectively. The overall passing rate for the district (i.e., students who passed both math and reading exams) was 64.9%, after disqualifying the questionable test scores.  Excluding the THS scores had a very minor negative effect on this total, since the THS score average was slightly higher than the district average.  However, the 461 compromised scores only represent approximately one (1) percent of the total scores, so the impact was not dramatice on this metric.
